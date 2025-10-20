@@ -18,7 +18,16 @@ namespace MeetingApp.Controllers
             int saat = DateTime.Now.Hour;
             @ViewBag.selamlama = saat > 12 ? "iyi günler" : "Günaydýn";
             ViewBag.name = "Tuna";
-            return View();
+            int UserCount = Repository._userInfos.Where(i => i.WillAttend == true).Count();
+
+            var meetingInfo = new MeetingInfo()
+            {
+                Id = 1,
+                Location = "Istanbul",
+                Date = DateTime.Now,
+                NumberOfPeople = UserCount
+            };
+            return View(meetingInfo);
         }
 
         public IActionResult Privacy()

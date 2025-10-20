@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ipmF/RTPfU6pyaaxqy+csmcPTJf/C8y2Ygd1+swoEs0=",
+  "Hash": "y1KUqIgrIshRaz5QviiYXGoF9jeQzI6qTYYJsU189Cw=",
   "Source": "MeetingApp",
   "BasePath": "_content/MeetingApp",
   "Mode": "Default",
@@ -73,11 +73,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "liicemhx72",
+      "Integrity": "vR6f5sUCdF0QDP51QCSH5IFWQ+Hf0qtRR76uf/4W3So=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\NTM26\\OneDrive\\Masaüstü\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\css\\style.css",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\NTM26\\OneDrive\\Masaüstü\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r8b2a0bt1",
+      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "C:\\Users\\NTM26\\OneDrive\\Masaüstü\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\favicon.ico",
@@ -1321,51 +1342,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\NTM26\\OneDrive\\Masaüstü\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Oct 2025 11:33:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\NTM26\\OneDrive\\Masaüstü\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1376,7 +1352,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "472"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1360,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"vR6f5sUCdF0QDP51QCSH5IFWQ+Hf0qtRR76uf/4W3So=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Oct 2025 11:33:45 GMT"
+          "Value": "Sat, 18 Oct 2025 15:48:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1374,134 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-vR6f5sUCdF0QDP51QCSH5IFWQ+Hf0qtRR76uf/4W3So="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.liicemhx72.css",
+      "AssetFile": "C:\\Users\\NTM26\\OneDrive\\Masaüstü\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vR6f5sUCdF0QDP51QCSH5IFWQ+Hf0qtRR76uf/4W3So=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Oct 2025 15:48:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "liicemhx72"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vR6f5sUCdF0QDP51QCSH5IFWQ+Hf0qtRR76uf/4W3So="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.3r8b2a0bt1.css",
+      "AssetFile": "C:\\Users\\NTM26\\OneDrive\\Masaüstü\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Oct 2025 15:48:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r8b2a0bt1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\NTM26\\OneDrive\\Masaüstü\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Oct 2025 15:48:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
         }
       ]
     },

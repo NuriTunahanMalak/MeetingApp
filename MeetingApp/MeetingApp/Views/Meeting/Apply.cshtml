@@ -1,8 +1,30 @@
-﻿@{
+﻿@model UserInfo
+@{
     ViewBag.Title = "Toplantıya Katılım Formu";
-}
-<h1>Toplantıya Katılım Formu</h1>
-<form action="">
+ }
+<h1 class="h4 text-center">Toplantıya Katılım Formu</h1>
+<form method="post" action="/Meeting/Apply">
+    <div asp-validation-summary="All"></div>
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" >
 
-    <button type="submit">Kaydet</button>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Phone" class="form-label">Phone</label>
+        <input type="text" class="form-control" id="Phone" name="Phone">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input type="email" class="form-control" id="Email" name="Email">
+    </div>
+    <div class="mb-3">
+        <label asp-for="WillAttend" class="form-label">WillAttend</label>
+        <select name="WillAttend" id="WillAttend" class="form-select">
+            <option value="true">Katılacağım</option>
+            <option value="false">Katılamayacağım</option>
+        </select>
+    </div>
+
+        <button type="submit">Kaydet</button>
 </form>

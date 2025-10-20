@@ -3,48 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\models\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\models\\meetinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\meeting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\meeting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\meeting\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\meeting\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\meeting\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\meeting\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\_viewimportans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\_viewimportans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7BF6E84-A40B-40F4-942D-4854E82322D8}|MeetingApp\\MeetingApp.csproj|c:\\users\\ntm26\\onedrive\\masa\u00FCst\u00FC\\projelerim\\meetingapp\\meetingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -58,11 +86,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "MeetingApp\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "MeetingApp\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-18T15:45:25.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MeetingApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MeetingApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-18T15:43:33.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Meeting\\Details.cshtml",
+              "RelativeDocumentMoniker": "MeetingApp\\Views\\Meeting\\Details.cshtml",
+              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Meeting\\Details.cshtml",
+              "RelativeToolTip": "MeetingApp\\Views\\Meeting\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T14:46:23.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "MeetingApp\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Models\\Repository.cs",
+              "RelativeToolTip": "MeetingApp\\Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:07:37.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "MeetingApp\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Models\\UserInfo.cs",
+              "RelativeToolTip": "MeetingApp\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:13:09.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "MeetingApp\\Controllers\\MeetingController.cs",
+              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "MeetingApp\\Controllers\\MeetingController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:28:47.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MeetingApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MeetingApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T17:49:40.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MeetingApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MeetingApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T14:01:03.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MeetingInfo.cs",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Models\\MeetingInfo.cs",
               "RelativeDocumentMoniker": "MeetingApp\\Models\\MeetingInfo.cs",
@@ -75,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MeetingApp\\Models\\ErrorViewModel.cs",
@@ -83,18 +215,17 @@
               "RelativeToolTip": "MeetingApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T18:24:54.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T18:24:54.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Meeting\\Index.cshtml",
-              "RelativeDocumentMoniker": "MeetingApp\\Views\\Meeting\\Index.cshtml",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Meeting\\Index.cshtml",
-              "RelativeToolTip": "MeetingApp\\Views\\Meeting\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Meeting\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "MeetingApp\\Views\\Meeting\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Meeting\\Thanks.cshtml",
+              "RelativeToolTip": "MeetingApp\\Views\\Meeting\\Thanks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-12T18:20:52.061Z",
               "EditorCaption": ""
@@ -107,20 +238,20 @@
               "RelativeDocumentMoniker": "MeetingApp\\Views\\Meeting\\Apply.cshtml",
               "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Meeting\\Apply.cshtml",
               "RelativeToolTip": "MeetingApp\\Views\\Meeting\\Apply.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-12T18:20:28.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MeetingApp\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MeetingApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-11T10:37:48.543Z",
               "EditorCaption": ""
@@ -133,39 +264,26 @@
               "RelativeDocumentMoniker": "MeetingApp\\Program.cs",
               "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Program.cs",
               "RelativeToolTip": "MeetingApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T10:34:32.132Z"
+              "WhenOpened": "2025-10-11T10:34:32.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MeetingApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MeetingApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T17:44:21.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T17:44:21.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MeetingApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MeetingApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T17:49:40.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "_Layout2.cshtml",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Shared\\_Layout2.cshtml",
               "RelativeDocumentMoniker": "MeetingApp\\Views\\Shared\\_Layout2.cshtml",
@@ -173,12 +291,11 @@
               "RelativeToolTip": "MeetingApp\\Views\\Shared\\_Layout2.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T18:03:46.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T18:03:46.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\appsettings.json",
               "RelativeDocumentMoniker": "MeetingApp\\appsettings.json",
@@ -190,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "_ViewImportans.cshtml",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\_ViewImportans.cshtml",
               "RelativeDocumentMoniker": "MeetingApp\\Views\\_ViewImportans.cshtml",
@@ -203,13 +320,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Meeting\\List.cshtml",
               "RelativeDocumentMoniker": "MeetingApp\\Views\\Meeting\\List.cshtml",
               "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\MeetingApp\\MeetingApp\\Views\\Meeting\\List.cshtml",
               "RelativeToolTip": "MeetingApp\\Views\\Meeting\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-08T17:44:18.684Z",
               "EditorCaption": ""
